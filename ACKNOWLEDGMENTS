@@ -1,0 +1,10 @@
+L'autore di questo progetto ringrazia il professor Alessandro bruno per le competenze e gli spunti forniti durante il corso universitario da cui nasce questo progetto.
+
+
+Sviluppo del progetto:
+
+ - ho svolto delle ricerche online informandomi sulle possibili reti neurali pre-addestrate nell'analisi delle immagini e object detection
+ - ho scaricato i file necessari alla rete neurale per funzionare quali pesi, configurazioni e etichette di output
+ - ho scritto il codice con l'aiuto di ChatGPT 4.0 utilizzando PyCharm Community Edition
+ - ho eseguito le installazioni delle librerie e debuggato il codice
+ - ho scritto la documentazione relativa al progetto e caricato lo stesso su GitHub
