@@ -32,7 +32,7 @@ Assicurati di avere i seguenti file nella tua directory di progetto:
 - "yolov3.cfg" : File di configurazione per YOLOv3.
 -  "coco.names" : File contenente i nomi delle classi riconosciute da YOLOv3.
 
-Questi file possono essere scaricati da fonti ufficiali o da repositori GitHub che offrono modelli pre-addestrati YOLOv3 :
+Questi file possono essere scaricati da fonti ufficiali o da repository GitHub che offrono modelli pre-addestrati YOLOv3 :
 
 https://pjreddie.com/media/files/yolov3.weights
 
